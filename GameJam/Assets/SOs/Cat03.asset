@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
-  m_Name: KittyCat
+  m_Name: Cat03
   m_EditorClassIdentifier: 
-  name: KittyCat
-  description: Kitty stuffs
-  artwork: {fileID: -5119705434168272699, guid: e3720dd73866c0e46b29c39b63bf3ec5,
+  name: Kitty
+  description: 
+  artwork: {fileID: -7851364157194835669, guid: e3720dd73866c0e46b29c39b63bf3ec5,
     type: 3}
-  cost: 10
+  cost: 30

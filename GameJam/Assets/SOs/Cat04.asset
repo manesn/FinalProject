@@ -10,11 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
-  m_Name: Rodney
+  m_Name: Cat04
   m_EditorClassIdentifier: 
-  name: Rod
-  description: Rodney (AKA Rod) is a Munchkin cat who loves to yell. If you give him
-    some ham, he'll cuddle you forever.
-  artwork: {fileID: -3052741308767895063, guid: e3720dd73866c0e46b29c39b63bf3ec5,
-    type: 3}
-  cost: 5
+  name: Kitty
+  description: 
+  artwork: {fileID: 5845836546776353014, guid: e3720dd73866c0e46b29c39b63bf3ec5, type: 3}
+  cost: 60
