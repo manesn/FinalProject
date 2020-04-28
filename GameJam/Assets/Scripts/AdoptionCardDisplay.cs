@@ -12,6 +12,8 @@ public class AdoptionCardDisplay : MonoBehaviour
 
     public Image artworkImage;
 
+    public Text costText;
+
     public Button adoptButton;
 
 
@@ -22,6 +24,8 @@ public class AdoptionCardDisplay : MonoBehaviour
         descriptionText.text = adoptionCard.description;
 
         artworkImage.sprite = adoptionCard.artwork;
+
+        costText.text = adoptionCard.cost.ToString();
 
     }
 

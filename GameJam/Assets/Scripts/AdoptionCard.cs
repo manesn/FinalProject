@@ -10,4 +10,6 @@ public class AdoptionCard : ScriptableObject
     public string description;
 
     public Sprite artwork;
+
+    public int cost;
 }
