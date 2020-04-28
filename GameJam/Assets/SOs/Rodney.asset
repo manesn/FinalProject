@@ -16,4 +16,4 @@ MonoBehaviour:
   description: Rodney (AKA Rod) is a Munchkin cat who loves to yell. If you give him
     some ham, he'll cuddle you forever.
   artwork: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  button: {fileID: 0}
+  cost: 5

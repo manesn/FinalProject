@@ -15,3 +15,4 @@ MonoBehaviour:
   name: KittyCat
   description: Kitty stuffs
   artwork: {fileID: 0}
+  cost: 10
