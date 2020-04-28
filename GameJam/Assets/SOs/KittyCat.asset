@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: KittyCat
   description: Kitty stuffs
-  artwork: {fileID: 0}
+  artwork: {fileID: -5119705434168272699, guid: e3720dd73866c0e46b29c39b63bf3ec5,
+    type: 3}
   cost: 10

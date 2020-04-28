@@ -17,6 +17,7 @@ public class AdoptionCardDisplay : MonoBehaviour
     public Button adoptButton;
 
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,5 +30,14 @@ public class AdoptionCardDisplay : MonoBehaviour
 
     }
 
-   
+    public bool SpendGold(int cost)
+    {
+        if (GetComponent<Counter>().counter >= cost)
+        {
+            GetComponent<Counter>().counter -= cost;
+            return true;
+        }
+        return false;
+    }
+
 }
