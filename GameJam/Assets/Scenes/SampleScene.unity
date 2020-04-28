@@ -256,7 +256,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: ADOPT
 --- !u!222 &519139956
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -613,6 +613,7 @@ GameObject:
   - component: {fileID: 879432637}
   - component: {fileID: 879432639}
   - component: {fileID: 879432638}
+  - component: {fileID: 879432640}
   m_Layer: 5
   m_Name: AdoptionCard
   m_TagString: Untagged
@@ -681,6 +682,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 879432636}
   m_CullTransparentMesh: 0
+--- !u!114 &879432640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879432636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8bb47f54bdfd94dbec40ed9061bf61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  adoptionCard: {fileID: 11400000, guid: 0c68e6778355f8d4292b31e493fd53fc, type: 2}
+  nameText: {fileID: 1196106011}
+  descriptionText: {fileID: 809191717}
+  artworkImage: {fileID: 2104327546}
+  adoptButton: {fileID: 1001579168}
 --- !u!1 &1001579166
 GameObject:
   m_ObjectHideFlags: 0
@@ -838,7 +856,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.008353521, y: 0.04425532}
   m_AnchorMax: {x: 0.23064648, y: 0.21076599}
-  m_AnchoredPosition: {x: 0.39752197, y: -1.9712753}
+  m_AnchoredPosition: {x: 0.39752197, y: -1.971283}
   m_SizeDelta: {x: -166, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1092269525
@@ -943,7 +961,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
