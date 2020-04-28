@@ -8,7 +8,7 @@ public class Counter : MonoBehaviour
     public Text counterText;
 
     public int counter;
-
+    public int costAmount;
     
 
     // Update is called once per frame
@@ -22,5 +22,20 @@ public class Counter : MonoBehaviour
         counter++; 
     }
 
+    public void DecreaseCounter()
+    {
+        costAmount = GetComponent<AdoptionCardDisplay>().adoptionCard.cost;
+        
+        if (costAmount > counter)
+        {
+            Debug.Log(costAmount);
+            return;
+            
+        }
 
+        else
+        {
+            counter -= costAmount;
+        }
+    }
 }

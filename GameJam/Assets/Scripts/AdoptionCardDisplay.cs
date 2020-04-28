@@ -30,14 +30,6 @@ public class AdoptionCardDisplay : MonoBehaviour
 
     }
 
-    public bool SpendGold(int cost)
-    {
-        if (GetComponent<Counter>().counter >= cost)
-        {
-            GetComponent<Counter>().counter -= cost;
-            return true;
-        }
-        return false;
-    }
+   
 
 }
