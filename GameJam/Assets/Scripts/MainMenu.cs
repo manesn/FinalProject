@@ -12,6 +12,7 @@ public class MainMenu : MonoBehaviour
 
     public GameObject pauseMenuUI;
 
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -43,7 +44,7 @@ public class MainMenu : MonoBehaviour
 
     public void LoadMenu()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene("Menu");
     }
 
     public void PlayGame()
