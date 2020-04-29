@@ -3,7 +3,7 @@
 ### For BL-MSCH-C220 at Indiana University, Bloomington
 ### April 29, 2020
 
----
+![Image description](link-to-image)
 
 This game was developed as a final project for C220 as part of a 48-hour game jam. 
 
