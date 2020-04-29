@@ -1,4 +1,4 @@
-# Project Name
+# Not Alone
 ## Jocelyn Eads
 ### For BL-MSCH-C220 at Indiana University, Bloomington
 ### April 29, 2020
