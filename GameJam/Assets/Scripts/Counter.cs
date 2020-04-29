@@ -57,7 +57,7 @@ public class Counter : MonoBehaviour
 
         {
             counter -= costAmount;
-
+            Destroy(adoptButton);
         }
     }
 
