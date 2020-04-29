@@ -8,15 +8,37 @@ public class Counter : MonoBehaviour
     public Text counterText;
 
     public int counter;
-    public int costAmount;
+    private int costAmount;
 
     public GameObject container;
+
+    private Button adoptButton;
 
     // Update is called once per frame
     void Update()
     {
         counterText.text = counter.ToString();
+
     }
+
+
+    void FixedUpdate()
+    {
+        costAmount = container.GetComponentInChildren<AdoptionCardDisplay>().adoptionCard.cost;
+        adoptButton = container.GetComponentInChildren<Button>();
+
+        if (costAmount > counter)
+        {
+
+            adoptButton.interactable = false;
+
+        }
+        else
+        {
+            adoptButton.interactable = true;
+        }
+    }
+
 
     public void IncreaseCounter()
     {
@@ -25,19 +47,19 @@ public class Counter : MonoBehaviour
 
     public void DecreaseCounter()
     {
-        costAmount = container.GetComponentInChildren<AdoptionCardDisplay>().adoptionCard.cost;
-
-
+        
         if (costAmount > counter)
         {
             Debug.Log(costAmount);
             return;
-            
+
         }
 
-        else
         {
             counter -= costAmount;
+
         }
     }
+
+
 }

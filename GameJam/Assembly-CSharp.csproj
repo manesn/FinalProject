@@ -62,7 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Adopt.cs" />
     <Compile Include="Assets\Scripts\AdoptionCard.cs" />
     <Compile Include="Assets\Scripts\AdoptionCardDisplay.cs" />
     <Compile Include="Assets\Scripts\Counter.cs" />
