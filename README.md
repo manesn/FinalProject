@@ -34,6 +34,7 @@ Room art courtesy of: Stacy Kendra Love, Narcissist Interactive, https://opengam
 Animal art courtesy of: "[LPC] Cats and Dogs" Artist: bluecarrot16 License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 http://opengameart.org/content/lpc-cats-and-dogs
 GUI assts: https://www.gameart2d.com/free-game-gui.html
 opengameart.org (any art not mentioned above was used under creative commons)
+Fonts are open source from Google Fonts 
 All animals listed are available for adoption at the Bloomington Animal Shelter: https://bloomington.in.gov/animal-shelter/animals
 
 
