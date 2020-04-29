@@ -9,7 +9,8 @@ public class Counter : MonoBehaviour
 
     public int counter;
     public int costAmount;
-    
+
+    public GameObject container;
 
     // Update is called once per frame
     void Update()
@@ -24,8 +25,9 @@ public class Counter : MonoBehaviour
 
     public void DecreaseCounter()
     {
-        costAmount = GetComponent<AdoptionCardDisplay>().adoptionCard.cost;
-        
+        costAmount = container.GetComponentInChildren<AdoptionCardDisplay>().adoptionCard.cost;
+
+
         if (costAmount > counter)
         {
             Debug.Log(costAmount);
