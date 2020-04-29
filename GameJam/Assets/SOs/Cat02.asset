@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Cat02
   m_EditorClassIdentifier: 
-  name: Kitty
-  description: Kitty stuffs
+  name: Cricket
+  description: Cricket is a Domestic Short Hair and master mouser. She loves farm
+    life and keeping busy.
   artwork: {fileID: -5119705434168272699, guid: e3720dd73866c0e46b29c39b63bf3ec5,
     type: 3}
   cost: 10

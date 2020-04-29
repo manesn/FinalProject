@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Dog04
   m_EditorClassIdentifier: 
-  name: Doggy
-  description: 
+  name: Button
+  description: Button is a Pitbull mix that's as cute as his name! He's a bundle of
+    energy and slobbery kisses.
   artwork: {fileID: 6625285829972002315, guid: a8d704615331a4244ae7e8359ba15a3d, type: 3}
   cost: 60

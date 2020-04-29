@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Dog02
   m_EditorClassIdentifier: 
-  name: Doggy
-  description: 
+  name: 'Asher '
+  description: Asher is a German Shepherd who loves a good hike! He's ready to follow
+    you on whatever adventure awaits.
   artwork: {fileID: -3125747477341110076, guid: a8d704615331a4244ae7e8359ba15a3d,
     type: 3}
   cost: 10

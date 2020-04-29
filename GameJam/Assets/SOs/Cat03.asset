@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Cat03
   m_EditorClassIdentifier: 
-  name: Kitty
-  description: 
+  name: Biggles
+  description: Biggles is a Domestic Short Hair with a kinked tail. It may look a
+    bit silly, but he doesn't mind.
   artwork: {fileID: -7851364157194835669, guid: e3720dd73866c0e46b29c39b63bf3ec5,
     type: 3}
   cost: 30

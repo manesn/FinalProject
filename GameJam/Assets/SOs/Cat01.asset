@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Cat01
   m_EditorClassIdentifier: 
-  name: Rodney
-  description: Rodney (AKA Rod) is a Munchkin cat who loves to yell. If you give him
-    some ham, he'll cuddle you forever.
+  name: 'Oreo '
+  description: Oreo is a Domestic Short Hair with sass. She's an independent cat that
+    loves her daytime naps.
   artwork: {fileID: -3052741308767895063, guid: e3720dd73866c0e46b29c39b63bf3ec5,
     type: 3}
   cost: 5

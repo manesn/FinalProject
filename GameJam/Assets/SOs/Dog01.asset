@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Dog01
   m_EditorClassIdentifier: 
-  name: Doggy
-  description: 
+  name: Bella
+  description: Bella is a Boxer mix with a big appetite! Her favorite snacks are hot
+    dogs and bananas.
   artwork: {fileID: 6046953390153988404, guid: a8d704615331a4244ae7e8359ba15a3d, type: 3}
   cost: 5

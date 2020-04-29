@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f668e2799514f1544b884de49203d2fe, type: 3}
   m_Name: Dog03
   m_EditorClassIdentifier: 
-  name: Doggy
-  description: 
+  name: Ella
+  description: Ella is a Cattle Dog/Hound mix who loves to run. She's a bit shy, but
+    is ready to be someone's new best friend.
   artwork: {fileID: 1811988976515849538, guid: a8d704615331a4244ae7e8359ba15a3d, type: 3}
   cost: 30
