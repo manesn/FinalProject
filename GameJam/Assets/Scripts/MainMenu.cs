@@ -17,6 +17,8 @@ public class MainMenu : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+
+            Debug.Log("Escape pressed");
             if (GameIsPasued)
             {
                 Resume();
