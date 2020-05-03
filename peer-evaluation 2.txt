@@ -1,0 +1,69 @@
+Name: Nick Manes
+Date: 5/2/2020
+
+Project: Not Alone 
+Group's repository: https://github.com/joeads4/FinalProject 
+
+
+
+What is something you learned by reviewing this group's project?
+
+* this game is a perfect example of how not all video games need blood, violence, enemies, or any of that. it can sometimes just be purely relaxing and calming.
+
+
+ 
+
+In what ways does this game reflect the theme?
+
+* while staying at home and keeping one's thoughts off the scary pandemic, you can find peace and quiet with pets and animals, like in this game. it doesn't directly involve corona, but it shows what you can do while staying safe from it.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+* the calming atmosphere, and the point system used to adopt the pets was splendid.
+ 
+
+What suggestions would you have for this group to improve the game?
+
+* a gui that shows you do not have enough points to adopt said animal would be nice, maybe some more animations for the pets 
+
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+* the point system mechanic used. i suck a lot at programming, so most of this was foreign to me.
+
+
+
+
+Is it clear that every group member participated?
+
+* given that there's only one group member, yes.
+ 
+
+
+
+Does the repository contain an appropriate LICENSE?
+
+* i'm not seeing the LICENSE here, but it might be buried somewhere. 
+
+
+
+
+What is something the group could add to the README.md to make it more descriptive?
+
+* maybe some more talk about Unity would be interesting to read, as it's not Godot like everyone else's projects. maybe talk about how long it took to make the game overall.
+
+
+
+
+Pay a compliment to the group based on the quality of the game.
+
+* your game not only has an incredibly adorable aesthetic, it stands out as very calming and relaxing. its' simplicity is what makes it beautiful, and the music compliments the atmosphere wonderfully.
+
+
+
+
+
+How many of your points would you allocate to this project?
+
+* overall, i'd say a 5 out of 5 points here.
